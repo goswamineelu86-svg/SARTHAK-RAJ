@@ -1,0 +1,6 @@
+{
+  "name": "StudyApex - NotebookLM Educational Dashboard",
+  "description": "Advanced educational study engine modeled after NotebookLM, featuring source-grounded chat, dual-host audio overviews, expandable mind maps, slide decks, interactive exam engine, chronological timelines, and comparative data tables powered by Gemini 3.8 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
